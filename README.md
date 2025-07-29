@@ -1,2 +1,2 @@
 # QR290725
-QR CODE PROJECT
+kullanıcıların benzersiz QR kodları ve sipariş yönetimi
